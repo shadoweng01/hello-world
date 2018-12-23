@@ -1,2 +1,5 @@
 # hello-world
-First Repository Test
+
+Hello everyone!
+
+I am a beginner at coding and learning new stuff all the time!
